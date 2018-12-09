@@ -6,5 +6,5 @@ Full tutorial can be found [here](https://www.tensorflow.org/tutorials/keras/bas
 
 Plot of Epochs vs Accuracy |  Code for ML model
 :-------------------------:|:-------------------------:
-![](assets/epochs.png)  |  ![](assets/epochs.png)
+![](assets/epochs.png)  |  ![](assets/model.png)
 
