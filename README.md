@@ -4,4 +4,7 @@ This notebook classifies movie reviews as positive or negative using the text of
 
 Full tutorial can be found [here](https://www.tensorflow.org/tutorials/keras/basic_text_classification)
 
-![Pyplot of epochs](assets/epochs.png "Plot of Epochs vs Accuracy ") ![Building the model](assets/model.png "Main code for ML model")
+Plot of Epochs vs Accuracy |  Code for ML model
+:-------------------------:|:-------------------------:
+![](assets/epochs.png)  |  ![](assets/epochs.png)
+
